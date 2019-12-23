@@ -15,7 +15,7 @@ The purpose of this project is to properly analyze the data and observe how New 
 |Name     |
 |---------|
 |[Mohammed Abdul Khaliq](https://github.com/amkhaliq)
-|[Emeka Mbazor](https://github.com/[esm2000])
+|[Emeka Mbazor](https://github.com/esm2000)
 
 ### Methods Used
 * Data Transformation
@@ -47,7 +47,7 @@ We expect to:
 * utilizing filtering methods, overtime pay will be compared across different agencies.
 * the data will be split into training and testing sets and an elementary K-Nearest Neighbor regression will be created in order to attempt to predict payroll data for municipal employees.
 
-For further details, the project proposal can be found here: [Project Proposal](nyc_payroll/project_proposal.pdf)
+For further details, the project proposal can be found here: [Project Proposal](https://github.com/amkhaliq/nyc_payroll/blob/master/project_proposal.pdf)
 
 ## Needs of this project
 
@@ -61,8 +61,8 @@ For further details, the project proposal can be found here: [Project Proposal](
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 
-2. Raw Data is being kept [here](nyc_payroll/Input/) within this repo.
+2. Raw Data is being kept [here](https://github.com/amkhaliq/nyc_payroll/tree/master/Input) within this repo.
     
-3. The python notebook with the code is being kept [here](nyc_payroll/citywide_payroll.ipynb)
+3. The python notebook with the code is being kept [here](https://github.com/amkhaliq/nyc_payroll/blob/master/citywide_payroll.ipynb)
 
-4. Follow setup [instructions](Link to file)
+4. Follow setup [instructions](https://github.com/amkhaliq/nyc_payroll/blob/master/setup.md)
